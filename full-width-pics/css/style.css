@@ -1,0 +1,77 @@
+/*!
+ * Mastertech - Full Width Pics
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+header{
+	height: 500px;
+}
+.bg-image-full {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+li.nav-item:hover{
+	border: 1px solid white;
+}
+li.nav-item{
+	width: 100px;
+	border: 1px solid #343a40;
+}
+li.nav-item a{
+	text-align: center;
+}
+nav.navbar{
+	height: 60px;
+}
+div.frase{
+	width: 1000px;
+	margin: 100px auto 0 auto;
+	height: 300px;
+	padding-left: 65px;
+}
+header{
+	height: 600px;
+}
+div.frase span{
+	color: white;
+	font-size: 45px;
+	font-weight: bold;
+	font-family: verdana;
+	opacity: 1;
+}
+
+div.container h1{
+	text-align: center;
+	color: #000000;
+}
+p.texto{
+	color: #696969;
+	text-align: center;
+}
+#rodape{
+	height: 150px;
+	width: 100%;
+	background-color: #343a40;
+	float: left;
+}
+/* Inicio do meu CSS */
+
+
+/* Fim do meu CSS */
